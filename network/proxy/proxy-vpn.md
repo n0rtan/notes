@@ -65,9 +65,9 @@ COMMIT
 
 #### Examples
 ```
-ip route add 108.157.214.11/32 via 10.78.0.73
-ip route add 108.157.214.12/24 via 10.78.0.73
-ip route add 108.157.214.13 via 10.78.0.73
+ip route add 108.157.214.11/32 via <VPN_IP>
+ip route add 108.157.214.12/24 via <VPN_IP>
+ip route add 108.157.214.13 via <VPN_IP>
 ```
 
 # Links
